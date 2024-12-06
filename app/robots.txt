@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://tanteviral.pages.dev/sitemap.xml
